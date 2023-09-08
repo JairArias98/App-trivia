@@ -1,0 +1,336 @@
+
+ 
+ { 
+    "0": {
+      "pregunta": "¿Un semáforo en rojo intermitente significa que un conductor debe hacer qué?",
+      "A": "detenerse",
+      "B": "acelerar",
+      "C": "proceda con precaución",
+      "D": "toque la bocina",
+      "respuesta": "A"
+    },
+    "1": {
+      "pregunta": "¿Un knish se rellena tradicionalmente con qué relleno?",
+      "A": "patata",
+      "B": "crema de maíz",
+      "C": "flan de limón",
+      "D": "gelatina de frambuesa",
+      "respuesta": "A"
+    },
+    "2": {
+      "pregunta": "¿Una pita es un tipo de qué?",
+      "A": "fruta fresca",
+      "B": "pan plano",
+      "C": "tarta francesa",
+      "D": "friend bean dip",
+      "respuesta": "B"
+    },
+    "3": {
+      "pregunta": "Un retrato que exagera cómicamente los rasgos físicos de una persona se llama ¿qué?",
+      "A": "paisaje",
+      "B": "caricatura",
+      "C": "naturaleza muerta",
+      "D": "impresionismo",
+      "respuesta": "B"
+    },
+    "4": {
+      "pregunta": "¿A un estudiante universitario de segundo curso se le suele llamar qué?",
+      "A": "sophomore",
+      "B": "senior",
+      "C": "freshman",
+      "D": "junior",
+      "respuesta": "A"
+    },
+    "5": {
+      "pregunta": "¿Un estudiante que obtiene un doctorado en Derecho puede comenzar su carrera como qué?",
+      "A": "abogado",
+      "B": "albañil",
+      "C": "médico",
+      "D": "contable",
+      "respuesta": "A"
+    },
+    "6": {
+      "pregunta": "Un tríptico es una obra de arte que está pintada en ¿cuántos paneles?",
+      "A": "dos",
+      "B": "tres",
+      "C": "cinco",
+      "D": "ocho",
+      "respuesta": "B"
+    },
+    "7": {
+      "pregunta": "Según una famosa frase de la obra existencialista 'Sin salida', ¿qué es el infierno?",
+      "A": "uno mismo",
+      "B": "otras personas",
+      "C": "poco hecho grande",
+      "D": "teñido de verde y azul",
+      "respuesta": "B"
+    },
+    "8": {
+      "pregunta": "Según un eslogan popular, ¿con qué Estado no debe 'meterse' la gente?",
+      "A": "Nueva York",
+      "B": "Texas",
+      "C": "Montana",
+      "D": "Rhode Island",
+      "respuesta": "B"
+    },
+    "9": {
+      "pregunta": "Según un estudio de la Universidad de Yale, ¿qué olor es el más reconocible para los adultos estadounidenses?",
+      "A": "atún",
+      "B": "ropa sucia",
+      "C": "palomitas",
+      "D": "café",
+      "respuesta": "D"
+    },
+    "10": {
+      "pregunta": "Según el folclore, ¿el 'jackalope' es una versión con cuernos de qué animal?",
+      "A": "gallina",
+      "B": "conejo",
+      "C": "alce",
+      "D": "serpiente",
+      "respuesta": "B"
+    },
+    "11": {
+      "pregunta": "Según la mitología griega, ¿quién era la hermana gemela de Apolo?",
+      "A": "Afrodita",
+      "B": "Artemisa",
+      "C": "Venus",
+      "D": "Atenea",
+      "respuesta": "B"
+    },
+    "12": {
+      "pregunta": "Según la leyenda, si le echas el 'mal de ojo' a alguien, ¿qué estás haciendo?",
+      "A": "maldiciéndoles",
+      "B": "bendiciendo a un niño",
+      "C": "contando dinero",
+      "D": "pasar el tiempo",
+      "respuesta": "A"
+    },
+    "13": {
+      "pregunta": "Según la leyenda, ¿en qué país es más probable encontrarse con un duende?",
+      "A": "Irlanda",
+      "B": "Polonia",
+      "C": "Groenlandia",
+      "D": "Escocia",
+      "respuesta": "A"
+    },
+    "14": {
+      "pregunta": "Según el American Kennel Club, ¿cuál es la raza de perro más popular en Estados Unidos en 1999?",
+      "A": "Caniche",
+      "B": "Beagle",
+      "C": "Pastor alemán",
+      "D": "Labrador retriever",
+      "respuesta": "D"
+    },
+    "15": {
+      "pregunta": "Según la Biblia, Moisés y Aarón tenían una hermana llamada ¿cómo?",
+      "A": "Jocabed",
+      "B": "Ruth",
+      "C": "Leah",
+      "D": "Miriam",
+      "respuesta": "D"
+    },
+    "16": {
+      "pregunta": "Según la canción infantil, ¿qué tipo de océano navegó Colón en 1492?",
+      "A": "tranquilo",
+      "B": "azul",
+      "C": "ventoso",
+      "D": "muy grande",
+      "respuesta": "B"
+    },
+    "17": {
+      "pregunta": "Según la canción infantil Mother Goose, ¿qué niño está lleno de aflicción?",
+      "A": "El niño del lunes",
+      "B": "El niño del miércoles",
+      "C": "hijo del jueves",
+      "D": "hijo del sábado",
+      "respuesta": "B"
+    },
+    "18": {
+      "pregunta": "Según el proverbio, si en Roma debes hacer como el ¿qué?",
+      "A": "vigilar tu cartera",
+      "B": "ver el Coliseo",
+      "C": "como hacen los romanos",
+      "D": "no bebas el agua",
+      "respuesta": "C"
+    },
+    "19": {
+      "pregunta": "Según la Organización Mundial de la Salud, ¿qué país tiene el mayor índice de caries?",
+      "A": "Australia",
+      "B": "Brasil",
+      "C": "India",
+      "D": "Rusia",
+      "respuesta": "C"
+    },
+    "20": {
+      "pregunta": "¿A qué temperatura son iguales Fahrenheit y Celsius?",
+      "A": "-40 grados",
+      "B": "0 grados",
+      "C": "32 grados",
+      "D": "100 grados",
+      "respuesta": "A"
+    },
+    "21": {
+      "pregunta": "Antes de convertirse en Jorge II, ¿cuál era el apellido del rey de Inglaterra?",
+      "A": "Stuart",
+      "B": "Tudor",
+      "C": "Hanover",
+      "D": "Plantagenet",
+      "respuesta": "C"
+    },
+    "22": {
+      "pregunta": "Por definición, ¿qué es alguien que se describe como 'lacrimógeno'?",
+      "A": "feliz",
+      "B": "lloroso",
+      "C": "soñoliento",
+      "D": "jovial",
+      "respuesta": "B"
+    },
+    
+        "23": {
+          "pregunta": "¿Durante qué guerra ocurrió el 'Raid Doolittle'?",
+          "A": "Primera Guerra Mundial",
+          "B": "Guerra de Corea",
+          "C": "Guerra de Vietnam",
+          "D": "Segunda Guerra Mundial",
+          "respuesta": "D"
+        },
+        "24": {
+          "pregunta": "¿Por qué animal se llama Canarias?",
+          "A": "canario",
+          "B": "oruga",
+          "C": "cormorán",
+          "D": "cocodrilo",
+          "respuesta": "A"
+        },
+        "25": {
+          "pregunta": "¿Cuánto mide una piscina olímpica?",
+          "A": "25 metros",
+          "B": "35 metros",
+          "C": "50 metros",
+          "D": "75 metros",
+          "respuesta": "C"
+        },
+        "26": {
+          "pregunta": "¿Cuántas posiciones básicas de ballet hay?",
+          "A": "dos",
+          "B": "cuatro",
+          "C": "seis",
+          "D": "ocho",
+          "respuesta": "B"
+        },
+        "27": {
+          "pregunta": "¿Cuántos niños hay en la familia von Trapp en la película 'Sonrisas y lágrimas'?",
+          "A": "cinco",
+          "B": "seis",
+          "C": "siete",
+          "D": "ocho",
+          "respuesta": "C"
+        },
+        "28": {
+          "pregunta": "¿Cuántos continentes hay?",
+          "A": "cuatro",
+          "B": "cinco",
+          "C": "seis",
+          "D": "siete",
+          "respuesta": "D"
+        },
+        "29": {
+          "pregunta": "¿Cuántos grados hay en un círculo completo?",
+          "A": "90 grados",
+          "B": "180 grados",
+          "C": "270 grados",
+          "D": "360 grados",
+          "respuesta": "D"
+        },
+        "30": {
+          "pregunta": "¿Cuántos ojos tiene una persona normal?",
+          "A": "uno",
+          "B": "dos",
+          "C": "tres",
+          "D": "cuatro",
+          "respuesta": "B"
+        },
+        "31": {
+          "pregunta": "¿Cuántas patas tiene normalmente una araña?",
+          "A": "cuatro",
+          "B": "seis",
+          "C": "ocho",
+          "D": "diez",
+          "respuesta": "C"
+        },
+        "32": {
+          "pregunta": "¿Cuántos lados tiene un pentágono?",
+          "A": "tres",
+          "B": "cuatro",
+          "C": "cinco",
+          "D": "seis",
+          "respuesta": "C"
+        },
+        "33": {
+          "pregunta": "¿Cuántas cuerdas suele tener un violín?",
+          "A": "dos",
+          "B": "tres",
+          "C": "cuatro",
+          "D": "cinco",
+          "respuesta": "C"
+        },
+        "34": {
+          "pregunta": "¿Cuántas zonas horarias hay en los Estados Unidos contiguos?",
+          "A": "uno",
+          "B": "dos",
+          "C": "tres",
+          "D": "cuatro",
+          "respuesta": "B"
+        },
+        "35": {
+          "pregunta": "¿Cuántas alas tiene una abeja?",
+          "A": "una",
+          "B": "dos",
+          "C": "cuatro",
+          "D": "seis",
+          "respuesta": "B"
+        },
+        "36": {
+          "pregunta": "¿Cuántos años hay en un milenio?",
+          "A": "10 años",
+          "B": "100 años",
+          "C": "500 años",
+          "D": "1.000 años",
+          "respuesta": "D"
+        },
+        "37": {
+          "pregunta": "¿Cuántos ceros hay en un millón?",
+          "A": "dos",
+          "B": "tres",
+          "C": "cuatro",
+          "D": "seis",
+          "respuesta": "C"
+        },
+        "38": {
+          "pregunta": "¿Cuánta madera astillaría una marmota si una marmota pudiera astillar madera?",
+          "A": "ninguna",
+          "B": "un poco",
+          "C": "mucho",
+          "D": "depende de la marmota",
+          "respuesta": "D"
+        },
+        "39": {
+          "pregunta": "En 1969, ¿quién fue el primer hombre en pisar la Luna?",
+          "A": "Alan Shepard",
+          "B": "Buzz Aldrin",
+          "C": "John Glenn",
+          "D": "Neil Armstrong",
+          "respuesta": "D"
+        },
+        "40": {
+          "pregunta": "En el antiguo Egipto, ¿qué se creía que simbolizaban los 'escarabajos'?",
+          "A": "muerte",
+          "B": "eternidad",
+          "C": "sabiduría",
+          "D": "riqueza",
+          "respuesta": "B"
+        }
+    }
+
+
+    

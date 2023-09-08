@@ -1,0 +1,291 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.header {
+  background-color: #353535;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.logo {
+  margin-left: 1rem;
+}
+
+.nav-main {
+  width: 90%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: auto;
+}
+
+.iniciar {
+  background-color: #0a2bd1;
+  padding: 0.7rem;
+  border-radius: 8px;
+  margin-right: 2rem;
+  color: #fff;
+  width: 8rem;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  gap: 1rem;
+}
+
+.container h1 {
+  color: #fff;
+}
+
+.btn-jugar {
+  padding: 1rem;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  width: 10rem;
+  color: #fff;
+  background-color: #bb1616;
+  font-weight: bold;
+  text-align: center;
+}
+
+/*ESTILOS JUEGO*/
+
+.contenedor-juego {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  background-color: #030927;
+  margin-top: 6rem;
+  color: #fff;
+  padding: 0.4rem;
+  max-height: 100vh;
+  border-radius: 8px;
+}
+
+.contenedor-preg {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 65%;
+  gap: 1rem;
+  background-color: #696969;
+  border-radius: 5px;
+}
+
+.contenedor-preg h3 {
+  padding: 1rem;
+  font-size: 18px;
+}
+
+.preguntas-btn {
+  display: flex;
+  margin: 1rem;
+  width: 45vw;
+  padding: 0.7rem;
+  border-radius: 8px;
+  border: 1px solid #b3b1b1;
+  cursor: pointer;
+  color: #fff;
+  background-color: transparent;
+  font-size: 18px;
+}
+
+.verde {
+  display: flex;
+  margin: 1rem;
+  width: 45vw;
+  padding: 0.7rem;
+  border-radius: 8px;
+  border: 1px solid #b3b1b1;
+  cursor: pointer;
+  color: #fff;
+  background-color: #07a301;
+  font-size: 18px;
+}
+.rojo {
+  display: flex;
+  margin: 1rem;
+  width: 45vw;
+  padding: 0.7rem;
+  border-radius: 8px;
+  border: 1px solid #b3b1b1;
+  cursor: pointer;
+  color: #fff;
+  background-color: #be1229;
+  font-size: 18px;
+}
+
+.preguntas-btn:hover {
+  background-color: #8692c7;
+}
+
+.seccion-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  margin-left: 2.3rem;
+}
+
+.preguntas p {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.puntos {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.punt-aprobar {
+  text-align: center;
+  font-size: 18px;
+}
+
+.tiempo span {
+  color: #d41010;
+}
+
+.comodin button {
+  padding: 0.7rem;
+  background-color: #0cc980;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #fff;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.mensj-pantalla {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 5rem;
+  gap: 1rem;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.aprobado {
+  color: #1ad614;
+}
+
+.reprobado {
+  color: #e60808;
+}
+
+.resultado button {
+  background-color: #2143ec;
+  padding: 0.7rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #fff;
+  font-weight: bold;
+}
+
+@media (max-width: 750px) {
+  .header {
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: left;
+  }
+
+  .logo {
+    margin: 0;
+    font-size: 20px;
+  }
+
+  .nav-main {
+    flex-direction: row;
+  }
+
+  .iniciar {
+    margin-left: 1rem;
+    width: auto;
+  }
+
+  .contenedor-juego {
+    display: flex;
+    flex-direction: column;
+    max-height: 300vh;
+    gap: 1rem;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: center;
+  }
+
+  .pregunta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+
+  .contenedor-preg {
+    width: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+
+  .preguntas-btn {
+    width: 80%;
+    text-align: center;
+    margin: 0.5rem 0;
+  }
+
+  .seccion-2 {
+    margin-left: 0;
+  }
+
+  .resultado button {
+    margin-bottom: 1rem;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .mensj-pantalla {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 3rem;
+    gap: 1rem;
+    font-size: 20px;
+    font-weight: bold;
+    max-width: 80%;
+  }
+}
